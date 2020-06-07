@@ -1,0 +1,4 @@
+consumerKey = Xy28foJ5YY9EZHXULqNcuQUn9
+consumerSecret = p6tMIS8FPOxDr9E1kvQyZdr8jT5qrqPgTzcnEZwbUCByzvVqN3
+accessToken = 1635494317-drIojeoIYlNMF3eunkwZ9K0lnshUVGW1jCD0Awr
+accessTokenSecret = 7Lxu3cHF8gvsx9KtwPpkedGAV7jzEqN9EzkNk3Al7qwrV
